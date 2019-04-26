@@ -14,7 +14,7 @@
 
 ## 🖥️ ICTE Web Components
 #### Preview
-[View our compiled version of ICTE Web here](http://www.thehtu.com/icte-web)
+[View our compiled version of ICTE Web here](http://www.thehtu.com/icte-angular-web/)
 *The action panel uses our routing service to switch views.*
 #### Details
 Our Website Template contains components for you to use right out of the box! We have provided a dark and light version 
